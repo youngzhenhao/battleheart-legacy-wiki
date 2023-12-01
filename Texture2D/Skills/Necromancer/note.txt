@@ -1,0 +1,11 @@
+mummy
+Summon Mummy
+
+skeleton
+Raise Skeleton
+
+hysteria
+Mass Hysteria
+
+harvest
+Dork Harvest Soul Mass

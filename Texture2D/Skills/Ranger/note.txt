@@ -1,0 +1,11 @@
+flamearrow
+Incendiary Arrow
+
+apollo
+Apollo Strike
+
+wolf
+Summon Pet
+
+premed
+Premeditate
